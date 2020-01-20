@@ -11,4 +11,4 @@ dependencies:
   - pip:
     - git+https://github.com/inducer/pymbolic
     - git+https://github.com/inducer/loopy
-
+    - git+https://github.com/inducer/f2py
